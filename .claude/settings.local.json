@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(where php)",
+      "Bash(php --version)"
+    ]
+  }
+}
